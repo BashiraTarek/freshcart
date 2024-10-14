@@ -1,0 +1,7 @@
+/* bstkhdem host 3ashan amsk el compoent kolo ka'no mahtot f div w ana b-style el div da */
+:host{
+    display : flex ;
+    flex-direction: column;
+    min-height: 100vh;/* 3amala en el 100 min  3ashan lw el content zad y3ml scrooll l taht maytl3sh el fotter 3ala elklam */
+    justify-content: space-between;
+}
